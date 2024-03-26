@@ -915,6 +915,11 @@
 }
 .home-get-started5 {
   margin-bottom: 0px;
+  
+}
+.home-get-started5:hover {
+  color: var(--dl-color-gray-white);
+  background-color: var(--dl-color-template-blue-bg);
 }
 .home-text58 {
   font-size: 18px;
